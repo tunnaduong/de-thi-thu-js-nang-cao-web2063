@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Máy tính xách tay",
+      "price": "22999770",
+      "description": "Máy tính xách tay hiệu suất cao",
+      "category": "Điện tử"
+    },
+    {
+      "id": "2",
+      "name": "Điện thoại thông minh",
+      "price": 16099770,
+      "description": "Mẫu điện thoại thông minh mới nhất",
+      "category": "Điện tử"
+    },
+    {
+      "id": "3",
+      "name": "Tai nghe",
+      "price": 4599970,
+      "description": "Tai nghe chống ồn",
+      "category": "Phụ kiện"
+    },
+    {
+      "id": "4",
+      "name": "Máy pha cà phê",
+      "price": 1149970,
+      "description": "Máy pha cà phê có thể lập trình",
+      "category": "Đồ gia dụng"
+    },
+    {
+      "id": "5",
+      "name": "Bàn chải đánh răng điện",
+      "price": "689970",
+      "description": "Bàn chải đánh răng điện có thể sạc lại",
+      "category": "Chăm sóc cá nhân"
+    }
+  ]
+}
